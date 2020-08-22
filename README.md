@@ -1,4 +1,4 @@
-## _**Egg Omlet**_ is the _simplest_ and _delicious_ recipe. It takes maximum **5 minutes** to cook. It is a _easy_ recipe which requires some basic available things like **eggs**, **onions**, **salt**, etc.
+## **Egg Omlet**_ is the _simplest_ and _delicious_ recipe. It takes maximum **5 minutes** to cook. It is a _easy_ recipe which requires some basic available things like **eggs**, **onions**, **salt**, etc.
 
 
 # Ingredients
@@ -9,7 +9,7 @@
  - ***Oil***
  - ***Salt***
 
- ## The steps are as follows
+ ## The steps are as follows - 
 
  1. *Break* a **egg** in a **small bowl**. 
  2. Add **chopped onion**, **green chilli**, **a bit of salt**.
