@@ -9,7 +9,7 @@
  - ***Oil***
  - ***Salt***
 
- ## The steps are as follows
+ ## The steps are as follows-
 
  
  1. *Break* a **egg** in a **small bowl**. 
