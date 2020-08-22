@@ -9,8 +9,9 @@
  - ***Oil***
  - ***Salt***
 
- ## The steps are as follows - 
+ ## The steps are as follows
 
+ 
  1. *Break* a **egg** in a **small bowl**. 
  2. Add **chopped onion**, **green chilli**, **a bit of salt**.
  3. *Mix* them well. 
